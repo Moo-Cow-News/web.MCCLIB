@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: MCCLIB
 description: Online documentaion of MCCLIB
+github:
+  is_project_page: false
